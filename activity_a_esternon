@@ -1,0 +1,24 @@
+
+val1=10
+val2=20
+val3=30
+
+print(val1)
+print(val2)
+print(val3)
+
+for x in range(1,10,3):
+    print(x)
+
+dog = 'Labrador'
+
+if dog == 'Labrador':
+    print("Nice breed")
+else:
+    print("I don't want this breed")
+
+val4=4>6
+val5=7!=1
+print(val4)
+print(val5)
+
