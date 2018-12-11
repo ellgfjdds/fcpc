@@ -1,0 +1,15 @@
+list = ["locahin","Bullet","junel"]
+print(list)
+
+tuple = ("apple", "banana", "cherry")
+print(tuple)
+
+set = {"A","B","C"}
+print(set)
+
+dict =	{
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+print(dict)
