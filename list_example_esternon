@@ -1,0 +1,20 @@
+
+print ("*****animals*****")
+animallist_1=['dog','cat','rabbit','horse']
+for I in animallist_1:
+    print(I)
+
+print ("*****softdrinks*****")
+softdrinkslist_2=['pepsi','royal','coke','rc','lemonsoda']
+for L in softdrinkslist_2:
+    print(L)
+
+print ("*****Motors*****")
+motorlist_3=['honda','susuki','yamaha','rosi']
+for E in motorlist_3:
+    print(E)
+
+print ("*****foods*****")
+foodlist_4=['menudo','afritada','sinigang','adobo']
+for S in foodlist_4:
+    print(S)
